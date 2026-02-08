@@ -1,0 +1,9 @@
+HINT 1:
+The system will always tell you where you are.
+
+HINT 2:
+Not everything wants to be seen at first glance.
+
+HINT 3:
+Reading files is often safer than running them.
+

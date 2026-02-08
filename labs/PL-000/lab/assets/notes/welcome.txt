@@ -1,0 +1,16 @@
+Welcome.
+
+If you’re reading this, you already know more than you think.
+
+Linux doesn’t reward memorization.
+It rewards curiosity.
+
+Nothing in this lab can break the system.
+Explore freely.
+
+To prove you found this message:
+Create a file called MISSION_COMPLETE in your home directory.
+
+When you're ready, run:
+  /lab/check.sh
+

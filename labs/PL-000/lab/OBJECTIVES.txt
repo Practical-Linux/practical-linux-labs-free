@@ -1,0 +1,6 @@
+To complete this lab, you must:
+
+[ ] Locate the welcome message
+[ ] Read its contents
+[ ] Prove you found it (instructions are inside the welcome message)
+

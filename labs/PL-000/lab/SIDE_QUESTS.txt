@@ -1,0 +1,14 @@
+Optional Challenges (Achievements):
+
+★ First Contact
+Read three different files under /lab (any method).
+
+★ Curious Mind
+Find and read a hidden file in /lab/assets/notes
+
+★ Comfortable Here
+Visit at least four different directories before finishing.
+
+These are optional.
+They exist only for those who like to explore.
+
