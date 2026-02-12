@@ -16,6 +16,7 @@ You can refer to your home directory using the ~ symbol(/home/your-user-name/).
 
 Example:
 touch ~/MISSION_COMPLETE
+ls /home/your-user-name/
 
 When you're ready, run:
 /lab/check.sh
