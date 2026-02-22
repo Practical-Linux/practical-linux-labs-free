@@ -1,0 +1,7 @@
+HINTS
+1) Groups matter as much as users.
+2) stat can tell you more than ls.
+3) Numeric permissions remove ambiguity.
+4) You may need elevated privileges.
+
+Not all doors should open the same way.

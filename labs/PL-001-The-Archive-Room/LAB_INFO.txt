@@ -1,0 +1,7 @@
+LAB_ID=PL-001
+TITLE=The Archive Room
+DIFFICULTY=1
+EST_TIME=20-30m
+TRACK=core
+VERSION=1.0
+AUTHOR=Practical Linux
